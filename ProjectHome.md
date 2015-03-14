@@ -1,0 +1,5 @@
+Maps is the MediaWiki extension that provides the ability to visualize geographic data with dynamic, JavaScript based, mapping API's such as Google Maps and OpenLayers in your wiki pages. It has build in support for geocoding, displaying maps, displaying markers, adding pop-ups, and more. Maps allows extensive customization of your maps, either per map, or via a general setting affecting all maps on your wiki.
+
+Due to Maps modular build, modifying the mapping service of a map is as easy as changing a single map property! These mapping services include Google Maps, Yahoo! Maps, OpenLayers and OpenStreetMap. These also allow you to display maps with Google Earth, OpenStreetMaps, Bing maps and others. Examples of how to use Maps can be found here.
+
+Pre 0.5.3 downloads can be found [here](http://code.bn2vs.com/viewtopic.php?t=163).
